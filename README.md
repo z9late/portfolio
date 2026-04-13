@@ -1,6 +1,6 @@
-# 🚀 Alex Morgan — Portfolio
+# 🚀 Abdulaziz's — Portfolio
 
-> **Computer Engineering Student** | Full-Stack Developer | ML Enthusiast
+> **Computer Engineer** | Full-Stack Developer | ML Enthusiast
 
 A personal portfolio website built with pure HTML, CSS, and JavaScript — no frameworks, no dependencies. Features a dark/light theme toggle, smooth animations, custom cursor, and fully responsive design.
 
